@@ -1,6 +1,6 @@
 ---
 layout: base
-title: I'm [ames Blazek
+title: I'm James Blazek
 hide: true
 ---
 
